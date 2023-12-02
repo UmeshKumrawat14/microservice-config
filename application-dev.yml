@@ -6,6 +6,6 @@ eureka:
     register-with-eureka: true
 
     service-url:
-      defaultZone: http://localhost:8888/eureka/
+      defaultZone: http://localhost:8889/eureka/
     instance:
     leaseRenewalIntervalInSeconds: 15 # Set the lease renewal interval to 15 seconds
